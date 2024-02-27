@@ -1,0 +1,35 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\79507\Desktop\HighJumpGameOOP\x64\Debug Dynamic\resources уже существует.
+  C:\Users\79507\Desktop\HighJumpGameOOP\resources\arial.ttf
+  Скопировано файлов:         1.
+  main.cpp
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(50,30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(98,12): warning C4305: +=: усечение из "double" в "float"
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(99,14): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(105,30): warning C4244: -=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(116,47): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(116,113): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(117,48): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(117,116): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(125,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(125,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(133,67): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\79507\Desktop\HighJumpGameOOP\main.cpp(133,44): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+  HighJumpGameOOP.vcxproj -> C:\Users\79507\Desktop\HighJumpGameOOP\x64\Debug Dynamic\HighJumpGameOOP.exe
